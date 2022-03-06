@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DistanceTrackerApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="continue_text">Continue</string>
+    <string name="permission_description">Welcome to Distance Tracker. In order to use our application we will first need to request location permission from you. Otherwise we will not be able to provide you with our service. If you agree and wish to continue tap on the button below.</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="tap_on_my_location_button">Tap on my location button</string>
+    <string name="start">Start</string>
+    <string name="reset">reset</string>
+    <string name="stop">stop</string>
+    <string name="distance">%1$s Km</string>
+
+</resources>
